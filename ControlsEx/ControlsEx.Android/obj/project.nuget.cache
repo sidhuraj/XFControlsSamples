@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aqyz3cz1V1Y2AMx11rb+UzKk24+enBF3ez6dd23+r0Wqa0+7ymoHDfH7gTi9zvffAMYMLpmY6RJ0ZVV/rxudQw==",
+  "dgSpecHash": "wi49Xnph6BZRw6Ib6g9WpWBuSbOeHeKPfhGRwUMOWEogotsdBHz6HMP7pf+lLfv7pJHFWkiTnjTap34KkCVIyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santosh\\source\\repos\\ControlsEx\\ControlsEx\\ControlsEx.Android\\ControlsEx.Android.csproj",
+  "projectFilePath": "C:\\Users\\santosh\\Desktop\\clone\\ControlsEx\\ControlsEx.Android\\ControlsEx.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santosh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\santosh\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.1\\xamarin.android.arch.core.common.1.1.1.1.nupkg.sha512",
