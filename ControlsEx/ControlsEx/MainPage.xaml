@@ -29,6 +29,7 @@
         <ActivityIndicator x:Name="progress" IsRunning="True"/>
 
         <Switch x:Name="stOnOff"/>
+        <Switch x:Name="stOnOff"/>
 
         <ProgressBar Progress="10" />
 
