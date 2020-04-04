@@ -9,7 +9,7 @@
     <StackLayout Orientation="Vertical">
 
 
-        <!--<Controls/>-->
+        <!--<Controls/>--> <!--<samples/>-->
         <Label x:Name="lblUserName" Text="Enter UserName" TextColor="Green" FontSize="Default"/>
 
         <Label x:Name="lblUserName" Text="Enter UserName" TextColor="Green" FontSize="Default"/>
