@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ControlsEx.MainPage" BackgroundImageSource="test.jpeg">
+
+    <StackLayout Orientation="Vertical">
+
+
+        <Label x:Name="lblUserName" Text="Enter UserName" TextColor="Green" FontSize="Default"/>
+
+        <Entry x:Name="etUserName" Placeholder="Enter UserName"/>
+
+        <Button x:Name="btnLogin"/>
+
+        <CheckBox x:Name="chkPlaying" />
+
+        <Slider x:Name="slider"  Value="130" BackgroundColor="Green"/>
+
+        <SearchBar x:Name="sbSearchName" Placeholder="Search Name" BackgroundColor="Red"/>
+
+
+        <Image Source="ico .png" WidthRequest="100" HeightRequest="100"/>
+
+        <ActivityIndicator x:Name="progress" IsRunning="True"/>
+
+        <Switch x:Name="stOnOff"/>
+
+        <ProgressBar Progress="10" />
+
+      
+
+        <Stepper/>
+
+        <DatePicker/>
+        <TimePicker/>
+
+
+
+    </StackLayout>
+
+</ContentPage>

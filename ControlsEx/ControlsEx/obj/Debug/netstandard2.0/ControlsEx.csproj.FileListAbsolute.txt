@@ -1,0 +1,13 @@
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\bin\Debug\netstandard2.0\ControlsEx.deps.json
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\bin\Debug\netstandard2.0\ControlsEx.dll
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\bin\Debug\netstandard2.0\ref\ControlsEx.dll
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\bin\Debug\netstandard2.0\ControlsEx.pdb
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\ControlsEx.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\ControlsEx.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\ControlsEx.AssemblyInfo.cs
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\ControlsEx.dll
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\ref\ControlsEx.dll
+C:\Users\santosh\source\repos\ControlsEx\ControlsEx\ControlsEx\obj\Debug\netstandard2.0\ControlsEx.pdb
