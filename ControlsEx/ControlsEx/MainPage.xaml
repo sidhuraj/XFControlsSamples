@@ -9,9 +9,7 @@
     <StackLayout Orientation="Vertical">
 
 
-        <!--<Controls/>--> <!--<samples/>-->
-        <Label x:Name="lblUserName" Text="Enter UserName" TextColor="Green" FontSize="Default"/>
-
+        
         <Label x:Name="lblUserName" Text="Enter UserName" TextColor="Green" FontSize="Default"/>
 
         <Entry x:Name="etUserName" Placeholder="Enter UserName"/>
@@ -30,7 +28,7 @@
         <ActivityIndicator x:Name="progress" IsRunning="True"/>
 
         <Switch x:Name="stOnOff"/>
-        <Switch x:Name="stOnOff"/>
+        
 
         <ProgressBar Progress="10" />
 
