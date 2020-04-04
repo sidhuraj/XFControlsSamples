@@ -11,6 +11,8 @@
 
         <Label x:Name="lblUserName" Text="Enter UserName" TextColor="Green" FontSize="Default"/>
 
+        <Label x:Name="lblUserName" Text="Enter UserName" TextColor="Green" FontSize="Default"/>
+
         <Entry x:Name="etUserName" Placeholder="Enter UserName"/>
 
         <Button x:Name="btnLogin"/>
